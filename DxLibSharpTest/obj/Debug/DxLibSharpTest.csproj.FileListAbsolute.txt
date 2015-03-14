@@ -1,0 +1,6 @@
+c:\users\junya nakamura\documents\visual studio 2013\Projects\DxLibSharpTest\DxLibSharpTest\bin\Debug\DxLibSharpTest.exe.config
+c:\users\junya nakamura\documents\visual studio 2013\Projects\DxLibSharpTest\DxLibSharpTest\obj\Debug\DxLibSharpTest.csprojResolveAssemblyReference.cache
+c:\users\junya nakamura\documents\visual studio 2013\Projects\DxLibSharpTest\DxLibSharpTest\bin\Debug\DxLibSharpTest.exe
+c:\users\junya nakamura\documents\visual studio 2013\Projects\DxLibSharpTest\DxLibSharpTest\bin\Debug\DxLibSharpTest.pdb
+c:\users\junya nakamura\documents\visual studio 2013\Projects\DxLibSharpTest\DxLibSharpTest\obj\Debug\DxLibSharpTest.exe
+c:\users\junya nakamura\documents\visual studio 2013\Projects\DxLibSharpTest\DxLibSharpTest\obj\Debug\DxLibSharpTest.pdb
